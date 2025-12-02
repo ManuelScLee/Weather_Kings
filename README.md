@@ -1,6 +1,6 @@
 
 ## Name
-#WeatherKings: A weather prediction game
+# WeatherKings: A weather prediction game
 
 ## Description
 DraftUWeather is a weather prediction game where users forecast daily conditions (temperature, wind, precipitation) and compete for accuracy.
