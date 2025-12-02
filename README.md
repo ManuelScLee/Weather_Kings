@@ -1,5 +1,4 @@
 
-## Name
 # WeatherKings: A weather prediction game
 
 ## Description
